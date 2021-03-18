@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Tensorflow, Time series DBs and always more Golang :)
 - 💞️ I’m looking to collaborate on any open-source project that needs help.
 - 📫 You can reach me at dragusin.mihai.90@gmail.com
-- ----------------------------------------------------------------------------
-- ![CodeWars](https://www.codewars.com/users/Mihai_Dragusin/badges/large)
+- ![CodeWars](https://www.codewars.com/users/Mihai_Dragusin/badges/small)
 
 <!---
 WolvenSpirit/WolvenSpirit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
