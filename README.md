@@ -1,7 +1,6 @@
 - 👋 Hi I’m Mihai @WolvenSpirit
 - 👀 I’m interested in building modern and scalable concurrent backend services and full applications using mainly Go programming language.
-- 🌱 I’m currently learning TSDBs, more DevOps and always more Golang.
-- 💞️ I’m looking to collaborate on any open-source project that needs help.
+- 🌱 I’m currently learning TSDBs, more DevOps and always more Go.
 - 📫 You can reach me at dragusin.mihai.90@gmail.com
 - ![CodeWars](https://www.codewars.com/users/Mihai_Dragusin/badges/small) https://www.codewars.com/users/Mihai_Dragusin
 
