@@ -1,6 +1,5 @@
 - 👋 Hi I’m Mihai @WolvenSpirit
 - 📫 You can reach me at dragusin.mihai.90@gmail.com
-- Resume: https://www.cakeresume.com/mihai-dragusin
 
 <!---
 WolvenSpirit/WolvenSpirit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
