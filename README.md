@@ -1,5 +1,4 @@
 - 👋 Hi I’m Mihai @WolvenSpirit
-- 📫 You can reach me at dragusin.mihai.90@gmail.com
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolvenSpirit&langs_count=8&exclude_repo=node_shop&hide=typescript,html,css,scss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
